@@ -1,0 +1,15 @@
+D:\CSCI1250\Labs\Lab6\obj\Debug\net6.0\Lab6.csproj.AssemblyReference.cache
+D:\CSCI1250\Labs\Lab6\obj\Debug\net6.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSCI1250\Labs\Lab6\obj\Debug\net6.0\Lab6.AssemblyInfoInputs.cache
+D:\CSCI1250\Labs\Lab6\obj\Debug\net6.0\Lab6.AssemblyInfo.cs
+D:\CSCI1250\Labs\Lab6\obj\Debug\net6.0\Lab6.csproj.CoreCompileInputs.cache
+D:\CSCI1250\Labs\Lab6\bin\Debug\net6.0\Lab6.exe
+D:\CSCI1250\Labs\Lab6\bin\Debug\net6.0\Lab6.deps.json
+D:\CSCI1250\Labs\Lab6\bin\Debug\net6.0\Lab6.runtimeconfig.json
+D:\CSCI1250\Labs\Lab6\bin\Debug\net6.0\Lab6.dll
+D:\CSCI1250\Labs\Lab6\bin\Debug\net6.0\ref\Lab6.dll
+D:\CSCI1250\Labs\Lab6\bin\Debug\net6.0\Lab6.pdb
+D:\CSCI1250\Labs\Lab6\obj\Debug\net6.0\Lab6.dll
+D:\CSCI1250\Labs\Lab6\obj\Debug\net6.0\ref\Lab6.dll
+D:\CSCI1250\Labs\Lab6\obj\Debug\net6.0\Lab6.pdb
+D:\CSCI1250\Labs\Lab6\obj\Debug\net6.0\Lab6.genruntimeconfig.cache
